@@ -1,0 +1,509 @@
+[
+    {
+        "userID": "c26d2a90-a511-4b4c-8b62-048e3c568eaa",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "672c82f4-b461-4368-808a-af7b195bf481",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "bfa8a0c4-420e-4e39-8ad5-7ee2d61dd80a",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "5b36cad9-4573-4451-8d8f-59570c1d2047",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "5a393133-1a6b-4052-be25-1cf343c04418",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "f0f77d61-5ce0-4f8b-a9b4-5f55295b440c",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmailcom",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "f7997daa-b6ea-4435-b0d4-6329a45c0982",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmailcom",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "08beb72b-40f4-417c-8e2e-ea73e80fed29",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "email": "jane.doe@example.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "a143f6e5-c04b-441e-9699-ca3d5e9123c6",
+        "firstName": "jachi",
+        "lastName": "benjamin",
+        "email": "benjamin.chika@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "e92d659c-30f7-4602-ac41-0f4a373dc384",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmailcom",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "dca49129-9c70-43fd-a2a8-bbf0baf5dc10",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "52dd63b9-17b2-4663-b0c0-5395be46f97e",
+        "firstName": "jachi",
+        "lastName": "benjamin",
+        "email": "benjamin.chika@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "e9f494e0-bc90-4bf9-bc6e-974e7707ecc9",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "bc01ba1e-8e00-4477-8c4d-1b942d5d99cf",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "76c3b803-fb06-4877-9727-a6ba0f1dcc0f",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "19d5c06b-4ea6-488d-8b60-fa14130c2e14",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "e5701043-a74e-4b69-8b23-9ab0a0447647",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "f61d5300-a8ac-4918-a67b-0a73bb3d18a1",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "bfda8486-f4b8-4301-b262-008b0d8e80f7",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "4fec2a37-0ad1-489d-90b2-3ac92c6139ef",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "ed9b473b-a114-464c-badc-05cc2038aa34",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "5bd5c294-38de-4d57-b88a-b93270b0f1d6",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "0ba26989-b106-43f2-9f55-403d5680e54d",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "928e5362-69b1-4352-90fd-a9018e8c5da4",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "84a5fd62-ff40-4490-8be9-489e286f5aa8",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "cbeae6bf-7c52-4202-ad8e-d656fb246eb3",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "eb401e44-703b-4efd-9479-36e6465f3f93",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "89337eb0-a8cc-4287-928c-762d4fded062",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "9746ac83-9084-44ac-8fa9-c1ab48a279e6",
+        "firstName": "KachiD",
+        "lastName": "Afudoh",
+        "email": "fudosman@gmail.com",
+        "password": "newpassword",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "6121c3f8-aa51-478d-a676-595e69fe2ac6",
+        "firstName": "radi",
+        "lastName": "Afudoh",
+        "email": "radi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "8a097958-53b1-4ad7-80f0-0e98ec234eac",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "a44154aa-1a97-43d6-93c3-1d0a74c50dd5",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "b33983bd-6f82-41f9-888a-9a415e55e4e3",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "4fac3324-616b-4eb8-b344-da9aa1db21d6",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "ff53e12f-accb-43ec-bab7-b160bb8a02ec",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "6d4afb26-0f8c-4d98-ab31-75b767e4e22b",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "2ac90375-853e-4a19-aab2-7acdcc24e129",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "4d9afb58-4a34-48a4-91b5-78d863f8cb80",
+        "firstName": "radi",
+        "lastName": "Afudoh",
+        "email": "radi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "eb96a252-89ff-4c03-801c-825c34722842",
+        "firstName": "kachi",
+        "lastName": "kachi",
+        "email": "kad@gjks.com",
+        "password": "kdja;kda",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "e7abdcac-f64f-47e3-94de-9d34b4a16bd9",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [
+            "Notification 10c2020a-fcd8-426f-836c-0ecfd57f8cd1: This is a notification",
+            {
+                "notificationID": "10c2020a-fcd8-426f-836c-0ecfd57f8cd1",
+                "notificationMessage": "This is a notification",
+                "notificationDate": "2025-01-03T16:28:45.899862",
+                "senderID": "sender123",
+                "receiverID": "e7abdcac-f64f-47e3-94de-9d34b4a16bd9",
+                "status": "unread"
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "userID": "db423be9-e8ef-4a8f-8928-a057f94af0f0",
+        "firstName": "radi",
+        "lastName": "Afudoh",
+        "email": "radi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "ae355e70-a9f0-4a51-b60e-1491b5382486",
+        "firstName": "bill",
+        "lastName": "ted",
+        "email": "billted@gmail.com",
+        "password": "billted",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "d6c9b458-6195-4354-82d3-6a5125e50dec",
+        "firstName": "kadlass",
+        "lastName": "kadlass",
+        "email": "kadlass@kask",
+        "password": "123hjka",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "82f6af09-bd1c-4944-86f9-b3e6ea60be97",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "b27089e6-ebe1-4f47-bd12-393642fbf26d",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "2e558860-4aa3-4170-baf3-47e501b2d2ab",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [
+            "Notification 82798625-1756-4343-825b-2608a8ff64bd: This is a notification",
+            {
+                "notificationID": "82798625-1756-4343-825b-2608a8ff64bd",
+                "notificationMessage": "This is a notification",
+                "notificationDate": "2025-01-03T18:21:26.037585",
+                "senderID": "sender123",
+                "receiverID": "2e558860-4aa3-4170-baf3-47e501b2d2ab",
+                "status": "unread"
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "userID": "0dfec721-e795-42e4-a9cc-9ea4b45c667e",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "18fab335-0a78-4882-91f6-e8060377969c",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "309086e1-a932-4053-af7c-e466fa5b6998",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "fa10cad8-02a5-484a-9f55-3a5a71354df7",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "aad73ad8-f867-4a3b-97a8-437ace82ee95",
+        "firstName": "radi",
+        "lastName": "Afudoh",
+        "email": "radi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "7e68983e-331e-4edf-a15c-9d17e452a749",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [
+            "Notification 0fa23bd1-df20-4a71-94d3-0cf5d802a73d: This is a notification",
+            {
+                "notificationID": "0fa23bd1-df20-4a71-94d3-0cf5d802a73d",
+                "notificationMessage": "This is a notification",
+                "notificationDate": "2025-01-03T18:26:25.991256",
+                "senderID": "sender123",
+                "receiverID": "7e68983e-331e-4edf-a15c-9d17e452a749",
+                "status": "unread"
+            }
+        ],
+        "status": "active"
+    }
+]

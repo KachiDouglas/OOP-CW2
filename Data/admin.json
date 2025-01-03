@@ -1,0 +1,122 @@
+[
+    {
+        "adminID": "5a393133-1a6b-4052-be25-1cf343c04418",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "f0f77d61-5ce0-4f8b-a9b4-5f55295b440c",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmailcom",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "f7997daa-b6ea-4435-b0d4-6329a45c0982",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmailcom",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "e92d659c-30f7-4602-ac41-0f4a373dc384",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmailcom",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "dca49129-9c70-43fd-a2a8-bbf0baf5dc10",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "4fac3324-616b-4eb8-b344-da9aa1db21d6",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "ff53e12f-accb-43ec-bab7-b160bb8a02ec",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "6d4afb26-0f8c-4d98-ab31-75b767e4e22b",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "2ac90375-853e-4a19-aab2-7acdcc24e129",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "ae355e70-a9f0-4a51-b60e-1491b5382486",
+        "firstName": "bill",
+        "lastName": "ted",
+        "email": "billted@gmail.com",
+        "password": "billted",
+        "employeeCount": 0
+    },
+    {
+        "adminID": "82f6af09-bd1c-4944-86f9-b3e6ea60be97",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "0dfec721-e795-42e4-a9cc-9ea4b45c667e",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "18fab335-0a78-4882-91f6-e8060377969c",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "309086e1-a932-4053-af7c-e466fa5b6998",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "fa10cad8-02a5-484a-9f55-3a5a71354df7",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    }
+]

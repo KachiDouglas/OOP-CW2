@@ -1,0 +1,48 @@
+[
+    {
+        "commentID": "3205e645-eced-404a-9238-87cfa1b6435e",
+        "ownerID": "owner123",
+        "message": "This is an edited comment",
+        "itemID": "item123",
+        "timestamp": "2025-01-02T20:51:11.581003"
+    },
+    {
+        "commentID": "comment123",
+        "content": "Great product!",
+        "userID": "8a097958-53b1-4ad7-80f0-0e98ec234eac"
+    },
+    {
+        "commentID": "comment123",
+        "content": "Great product!",
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "commentID": "comment123",
+        "content": "Great product!",
+        "userID": "a44154aa-1a97-43d6-93c3-1d0a74c50dd5"
+    },
+    {
+        "commentID": "comment123",
+        "content": "Great product!",
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "commentID": "7f03007d-2635-4699-aaae-f25c89a9af6a",
+        "ownerID": "d6c9b458-6195-4354-82d3-6a5125e50dec",
+        "message": "i love this table",
+        "itemID": "681f7c0e-9ee8-4dfe-9a9e-3cb2a6da9ddb",
+        "timestamp": "2025-01-03T17:06:45.920187"
+    },
+    {
+        "commentID": "38607878-b085-43c4-bfe5-633356cc4b13",
+        "ownerID": "9746ac83-9084-44ac-8fa9-c1ab48a279e6",
+        "message": "This is an edited comment",
+        "itemID": "item123",
+        "timestamp": "2025-01-03T18:20:26.701597"
+    },
+    {
+        "commentID": "comment123",
+        "content": "Great product!",
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    }
+]

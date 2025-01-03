@@ -1,0 +1,38 @@
+[
+    {
+        "employeeID": "emp123",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "employeeType": "full-time",
+        "status": "active"
+    },
+    {
+        "employeeID": "7d6f4939-b361-4c9d-8043-6d7c2e58d67c",
+        "firstName": "kachi",
+        "lastName": "kachi",
+        "email": "kad@gjks.com",
+        "password": "kdja;kda",
+        "employeeType": "full-time",
+        "status": "active"
+    },
+    {
+        "employeeID": "48e87e9c-711a-43a3-b7f2-229b4138bbce",
+        "firstName": "kadlass",
+        "lastName": "kadlass",
+        "email": "kadlass@kask",
+        "password": "123hjka",
+        "employeeType": "full-time",
+        "status": "active"
+    },
+    {
+        "employeeID": "d8546a85-e494-48e5-9f6e-8abf3c1515ca",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "employeeType": "full-time",
+        "status": "active"
+    }
+]

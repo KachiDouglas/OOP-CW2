@@ -1,0 +1,23 @@
+[
+    {
+        "refundRequestID": "5ce7285b-9031-42f9-aaf9-7d7abda414a3",
+        "orderID": "order123",
+        "reason": "Item not as described",
+        "supportingDocuments": [
+            "doc2"
+        ],
+        "status": "approved",
+        "date": "2025-01-02T21:06:14.855093"
+    },
+    {
+        "refundRequestID": "02eaea3a-d308-46f3-b0b9-e80186c29d09",
+        "orderID": "order123",
+        "reason": "Item not as described",
+        "supportingDocuments": [
+            "doc1",
+            "doc2"
+        ],
+        "status": "approved",
+        "date": "2025-01-03T18:28:59.029760"
+    }
+]

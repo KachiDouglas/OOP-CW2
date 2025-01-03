@@ -1,0 +1,188 @@
+[
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "08beb72b-40f4-417c-8e2e-ea73e80fed29"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "a143f6e5-c04b-441e-9699-ca3d5e9123c6"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "52dd63b9-17b2-4663-b0c0-5395be46f97e"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "e9f494e0-bc90-4bf9-bc6e-974e7707ecc9"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "8a097958-53b1-4ad7-80f0-0e98ec234eac"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "itemID": "681f7c0e-9ee8-4dfe-9a9e-3cb2a6da9ddb",
+        "sellerID": "d6c9b458-6195-4354-82d3-6a5125e50dec",
+        "itemName": "katheirn",
+        "itemDescription": "for cooking",
+        "commentCount": 0,
+        "itemPrice": 50.0,
+        "itemMediaId": "",
+        "itemCategory": "bells",
+        "itemMediaUrl": ""
+    },
+    {
+        "itemID": "5a9a173d-6a6c-4c46-8274-9c2684f7a4d3",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "1a31c3d9-ef6b-4ac4-bc96-3c19eb1a3836",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "fda9e1e0-d419-4fc2-a0c8-159981891aba",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "6223e6c3-699b-4e91-8af9-c6c053c65c99",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "ef1607ec-a0d6-4f6c-b462-63dbae9c0328",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "6eb4730c-63e5-4ccb-b75f-e02e997684f6",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "b326743c-a97f-41fe-b6e8-3eb9f8f7aa40",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "bc4afe5d-7d22-4b60-9d75-ad80d2fdb3ab",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "d4eeeb5f-49ca-4c7e-9f3c-81b51922eb25",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "itemID": "84bf6e56-8599-4af2-bcaf-4c444c378ab7",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
+    },
+    {
+        "itemID": "5697f809-23dc-40c1-8562-a4a0db2ea43a",
+        "sellerID": "ae355e70-a9f0-4a51-b60e-1491b5382486",
+        "itemName": "phone ",
+        "itemDescription": "this is the smartest phone you can get at a cheap price",
+        "commentCount": 0,
+        "itemPrice": 90.0,
+        "itemMediaId": "",
+        "itemCategory": "grade b",
+        "itemMediaUrl": ""
+    }
+]
