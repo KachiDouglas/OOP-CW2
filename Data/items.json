@@ -184,5 +184,22 @@
         "itemMediaId": "",
         "itemCategory": "grade b",
         "itemMediaUrl": ""
+    },
+    {
+        "itemID": "item123",
+        "name": "Laptop",
+        "price": 1000,
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "itemID": "52e9b144-65f2-49a9-829e-c9bdf2f4c1a6",
+        "sellerID": "seller123",
+        "itemName": "Gaming Laptop",
+        "itemDescription": "A high-end gaming laptop",
+        "commentCount": 0,
+        "itemPrice": 1400,
+        "itemMediaId": "http://example.com/media123",
+        "itemCategory": "media123",
+        "itemMediaUrl": "Electronics"
     }
 ]

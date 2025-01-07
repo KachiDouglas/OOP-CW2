@@ -118,5 +118,37 @@
         "email": "adminDouglas@gmail.com",
         "password": "password",
         "employeeCount": 10
+    },
+    {
+        "adminID": "9570a2c5-b948-47f3-b437-04b169e822fb",
+        "firstName": "kachi",
+        "lastName": "Echem",
+        "email": "echemanthony@gmail.com",
+        "password": "1234567890",
+        "employeeCount": 0
+    },
+    {
+        "adminID": "dbf46fee-f00e-4bdb-9689-05bdd6d5eeee",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "employeeCount": 10
+    },
+    {
+        "adminID": "45901d3c-3e34-46a5-9c2b-ab26e1fa7886",
+        "firstName": "kachi",
+        "lastName": "afudoh",
+        "email": "fudosman@gmailcom",
+        "password": "234567890",
+        "employeeCount": 0
+    },
+    {
+        "adminID": "b4bca388-6a02-4808-b15f-ca775235e3b9",
+        "firstName": "kachi",
+        "lastName": "sukd;la",
+        "email": "ahjsjs",
+        "password": "djhks",
+        "employeeCount": 0
     }
 ]

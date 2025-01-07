@@ -30,5 +30,29 @@
         "senderID": "sender123",
         "receiverID": "7e68983e-331e-4edf-a15c-9d17e452a749",
         "status": "read"
+    },
+    {
+        "notificationID": "d9924b87-f749-473f-a3fa-1ad755196c40",
+        "notificationMessage": "This is a notification",
+        "notificationDate": "2025-01-03T22:37:06.772408",
+        "senderID": "sender123",
+        "receiverID": "f8341bbb-059e-43a2-99dc-ffb35160f881",
+        "status": "read"
+    },
+    {
+        "notificationID": "4b352056-bdf3-4c0b-b69c-ef18ec6b86b4",
+        "notificationMessage": "This is a notification",
+        "notificationDate": "2025-01-03T23:19:23.675840",
+        "senderID": "sender123",
+        "receiverID": "a5703e6b-cad5-4ed3-9d52-142480a22bb6",
+        "status": "read"
+    },
+    {
+        "notificationID": "116f0843-0ee0-4d0f-81ca-bf91c99a4b96",
+        "notificationMessage": "This is a notification",
+        "notificationDate": "2025-01-03T23:36:47.383001",
+        "senderID": "sender123",
+        "receiverID": "21333928-d572-4971-9dba-321f941cc367",
+        "status": "read"
     }
 ]

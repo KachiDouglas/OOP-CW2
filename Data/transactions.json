@@ -68,5 +68,10 @@
         "transactionID": "some_transaction_id",
         "amount": 100,
         "status": "completed"
+    },
+    {
+        "transactionID": "some_transaction_id",
+        "amount": 100,
+        "status": "completed"
     }
 ]

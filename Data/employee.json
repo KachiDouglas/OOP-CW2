@@ -34,5 +34,14 @@
         "password": "password",
         "employeeType": "full-time",
         "status": "active"
+    },
+    {
+        "employeeID": "62bf7c8c-54bc-4891-bdf2-21b1cd3e6236",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "employeeType": "full-time",
+        "status": "active"
     }
 ]

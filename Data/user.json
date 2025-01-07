@@ -505,5 +505,125 @@
             }
         ],
         "status": "active"
+    },
+    {
+        "userID": "9570a2c5-b948-47f3-b437-04b169e822fb",
+        "firstName": "kachi",
+        "lastName": "Echem",
+        "email": "echemanthony@gmail.com",
+        "password": "1234567890",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "dbf46fee-f00e-4bdb-9689-05bdd6d5eeee",
+        "firstName": "Admin",
+        "lastName": "Douglas",
+        "email": "adminDouglas@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "85e072e4-6a98-4f5f-abf1-bb710e8b3b04",
+        "firstName": "zimUche",
+        "lastName": "benjamin",
+        "email": "benjamin.zim@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "f8341bbb-059e-43a2-99dc-ffb35160f881",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [
+            "Notification d9924b87-f749-473f-a3fa-1ad755196c40: This is a notification",
+            {
+                "notificationID": "d9924b87-f749-473f-a3fa-1ad755196c40",
+                "notificationMessage": "This is a notification",
+                "notificationDate": "2025-01-03T22:37:06.772408",
+                "senderID": "sender123",
+                "receiverID": "f8341bbb-059e-43a2-99dc-ffb35160f881",
+                "status": "unread"
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "userID": "45901d3c-3e34-46a5-9c2b-ab26e1fa7886",
+        "firstName": "kachi",
+        "lastName": "afudoh",
+        "email": "fudosman@gmailcom",
+        "password": "234567890",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "a5703e6b-cad5-4ed3-9d52-142480a22bb6",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [
+            "Notification 4b352056-bdf3-4c0b-b69c-ef18ec6b86b4: This is a notification",
+            {
+                "notificationID": "4b352056-bdf3-4c0b-b69c-ef18ec6b86b4",
+                "notificationMessage": "This is a notification",
+                "notificationDate": "2025-01-03T23:19:23.675840",
+                "senderID": "sender123",
+                "receiverID": "a5703e6b-cad5-4ed3-9d52-142480a22bb6",
+                "status": "unread"
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "userID": "4829c924-e23c-436b-ab09-13edca486259",
+        "firstName": "radi",
+        "lastName": "Afudoh",
+        "email": "radi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "21333928-d572-4971-9dba-321f941cc367",
+        "firstName": "kachi",
+        "lastName": "Afudoh",
+        "email": "afudohkachi@gmail.com",
+        "password": "password",
+        "notifications": [
+            "Notification 116f0843-0ee0-4d0f-81ca-bf91c99a4b96: This is a notification",
+            {
+                "notificationID": "116f0843-0ee0-4d0f-81ca-bf91c99a4b96",
+                "notificationMessage": "This is a notification",
+                "notificationDate": "2025-01-03T23:36:47.383001",
+                "senderID": "sender123",
+                "receiverID": "21333928-d572-4971-9dba-321f941cc367",
+                "status": "unread"
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "userID": "29506e65-c200-4181-bbee-c31ab78ab562",
+        "firstName": "radi",
+        "lastName": "Afudoh",
+        "email": "radi@gmail.com",
+        "password": "password",
+        "notifications": [],
+        "status": "active"
+    },
+    {
+        "userID": "b4bca388-6a02-4808-b15f-ca775235e3b9",
+        "firstName": "kachi",
+        "lastName": "sukd;la",
+        "email": "ahjsjs",
+        "password": "djhks",
+        "notifications": [],
+        "status": "active"
     }
 ]

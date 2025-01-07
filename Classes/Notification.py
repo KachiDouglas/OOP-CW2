@@ -7,7 +7,6 @@ from Observer import Subject
 
 class Notification(Subject):
     NOTIFICATIONS_FILE = 'Data/notifications.json'
-
     
     # -----------------------------------------------------------
     # constructor method for this class
@@ -22,27 +21,6 @@ class Notification(Subject):
         self.status = "unread"
         self.saveNotification()
 
-    def saveNotification(self):
-        notification_data = {
-            "notificationID": self.notificationID,
-            "notificationMessage": self.notificationMessage,
-            "notificationDate": self.notificationDate,
-            "senderID": self.senderID,
-            "receiverID": self.receiverID,
-            "status": self.status
-        }
-
-        try:
-            notifications = self.loadData(self.NOTIFICATIONS_FILE)
-            notifications = [notification for notification in notifications if notification['notificationID'] != self.notificationID]
-            notifications.append(notification_data)
-            self.writeData(self.NOTIFICATIONS_FILE, notifications)
-            self.notify(notification_data)
-            print("Notification saved successfully")
-        except Exception as e:
-            print(f"Error in saveNotification: {e}")
-
-    
     # -----------------------------------------------------------
     #  Attaches an observer
     # -----------------------------------------------------------    
@@ -56,8 +34,8 @@ class Notification(Subject):
     def detach(self, observer):
         try:
             self._observers.remove(observer)
-        except ValueError:
-            pass
+        except Exception as e:
+            print(f"detach error: {e}")
 
     # -----------------------------------------------------------
     #  Notifies all observers
@@ -102,6 +80,26 @@ class Notification(Subject):
             print("Notification marked as read successfully")
         except Exception as e:
             print(f"markAsRead error: {e}")
+    
+    def saveNotification(self):
+        notification_data = {
+            "notificationID": self.notificationID,
+            "notificationMessage": self.notificationMessage,
+            "notificationDate": self.notificationDate,
+            "senderID": self.senderID,
+            "receiverID": self.receiverID,
+            "status": self.status
+        }
+
+        try:
+            notifications = self.loadData(self.NOTIFICATIONS_FILE)
+            notifications = [notification for notification in notifications if notification['notificationID'] != self.notificationID]
+            notifications.append(notification_data)
+            self.writeData(self.NOTIFICATIONS_FILE, notifications)
+            self.notify(notification_data)
+            print("Notification saved successfully")
+        except Exception as e:
+            print(f"Error in saveNotification: {e}")
 
     @staticmethod
     def loadData(filepath):

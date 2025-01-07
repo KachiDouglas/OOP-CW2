@@ -32,56 +32,6 @@ class User(Observer):
         return str(uuid.uuid4())
 
     # -----------------------------------------------------------
-    # saves the user instance to the user.json file
-    # -----------------------------------------------------------
-    def saveUser(self):
-        user_data = {
-            "userID": self.userID,
-            "firstName": self.firstName,
-            "lastName": self.lastName,
-            "email": self.email,
-            "password": self.password,
-            "notifications": self.notifications,
-            "status": self.status
-        }
-    # handling errors during saving
-        try:
-            users = self.loadData(self.USER_FILE)
-            users = [user for user in users if user['userID'] != self.userID]
-            users.append(user_data)
-            self.writeData(self.USER_FILE, users)
-            print("User saved successfully")
-        except Exception as e:
-            print(f"Error in saveUser: {e}")
-
-    # -----------------------------------------------------------
-    # checks if a users record exists in the user.json file and gives them a session
-    # -----------------------------------------------------------
-    def login(self, email, password):
-        try:
-            users = self.loadData(self.USER_FILE)
-            for user in users:
-                if user['email'] == email and user['password'] == password:
-                    self.writeData(self.SESSION_FILE, {"userID": user['userID']})
-                    print("Login successful")
-                    return True
-            print("Login failed")
-            return False
-        except Exception as e:
-            print(f"Error in login: {e}")
-
-    # -----------------------------------------------------------
-    # deletes the session
-    # -----------------------------------------------------------
-    def logout(self):
-        try:
-            if os.path.exists(self.SESSION_FILE):
-                os.remove(self.SESSION_FILE)
-                print("Logout successful")
-        except Exception as e:
-            print(f"Error in logout: {e}")
-
-    # -----------------------------------------------------------
     # edit the user profile from the user.json file
     # -----------------------------------------------------------
     def editProfile(self, firstName=None, lastName=None, email=None, password=None):
@@ -165,6 +115,58 @@ class User(Observer):
     # -----------------------------------------------------------
     # utility method to load and write data to a json file
     # -----------------------------------------------------------
+
+    # -----------------------------------------------------------
+    # saves the user instance to the user.json file
+    # -----------------------------------------------------------
+    def saveUser(self):
+        user_data = {
+            "userID": self.userID,
+            "firstName": self.firstName,
+            "lastName": self.lastName,
+            "email": self.email,
+            "password": self.password,
+            "notifications": self.notifications,
+            "status": self.status
+        }
+    # handling errors during saving
+        try:
+            users = self.loadData(self.USER_FILE)
+            users = [user for user in users if user['userID'] != self.userID]
+            users.append(user_data)
+            self.writeData(self.USER_FILE, users)
+            print("User saved successfully")
+        except Exception as e:
+            print(f"Error in saveUser: {e}")
+
+    # -----------------------------------------------------------
+    # checks if a users record exists in the user.json file and gives them a session
+    # -----------------------------------------------------------
+    def login(self, email, password):
+        try:
+            users = self.loadData(self.USER_FILE)
+            for user in users:
+                if user['email'] == email and user['password'] == password:
+                    self.writeData(self.SESSION_FILE, {"userID": user['userID']})
+                    print("Login successful")
+                    return True
+            print("Login failed")
+            return False
+        except Exception as e:
+            print(f"Error in login: {e}")
+
+    # -----------------------------------------------------------
+    # deletes the session
+    # -----------------------------------------------------------
+    def logout(self):
+        try:
+            if os.path.exists(self.SESSION_FILE):
+                os.remove(self.SESSION_FILE)
+                print("Logout successful")
+        except Exception as e:
+            print(f"Error in logout: {e}")
+
+
     @staticmethod
     def loadData(filepath):
         if os.path.exists(filepath):

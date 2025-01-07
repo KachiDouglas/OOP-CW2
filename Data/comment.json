@@ -44,5 +44,17 @@
         "commentID": "comment123",
         "content": "Great product!",
         "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
+    },
+    {
+        "commentID": "fb9f849c-3ccd-4416-921c-dfe4aee7a525",
+        "ownerID": "9746ac83-9084-44ac-8fa9-c1ab48a279e6",
+        "message": "This is an edited comment",
+        "itemID": "item123",
+        "timestamp": "2025-01-03T22:35:40.708483"
+    },
+    {
+        "commentID": "comment123",
+        "content": "Great product!",
+        "userID": "f3a3906f-dc45-4b1b-844c-4c2a558f8ebd"
     }
 ]
